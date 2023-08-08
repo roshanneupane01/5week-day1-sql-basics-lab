@@ -1,0 +1,3 @@
+Week 5 Day 1 SQL Basics Lab
+
+In this lab, I engaged with SQL fundamentals by inserting and querying data. Through a step-by-step process, I set up a sample database, practiced Git version control, and utilized the PostgreSQL interactive console for crafting and testing SQL queries. The lab encompassed tasks like table creation, data insertion, sorting, filtering, aggregation, and modification. By following the provided instructions and using the sample data, I gained hands-on experience in manipulating data and honed my SQL skills.
